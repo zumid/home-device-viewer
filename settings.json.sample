@@ -1,0 +1,12 @@
+{
+    "devices" : [
+        {
+            "name" : "iPhone12",
+            "mac" : "XX:XX:XX:XX:XX:XX"
+        },
+        {
+            "name" : "MacBookPro",
+            "mac" : "XX:XX:XX:XX:XX:XX"
+        }
+    ]
+}
